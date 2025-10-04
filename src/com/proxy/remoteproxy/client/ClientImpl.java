@@ -1,7 +1,6 @@
 package com.proxy.remoteproxy.client;
 
 import com.proxy.remoteproxy.server.*;
-
 import java.rmi.Naming;
 
 public class ClientImpl {
